@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iamstudent.uk/static/css/main.bd13f206.css",
-    "main.js": "/iamstudent.uk/static/js/main.3ba67796.js",
+    "main.css": "/iamstudent.uk/static/css/main.2827df8e.css",
+    "main.js": "/iamstudent.uk/static/js/main.c2f4d528.js",
     "static/media/clip.svg": "/iamstudent.uk/static/media/clip.cfa343cc1679b6c647ec651232ffb323.svg",
     "static/media/9.jpg": "/iamstudent.uk/static/media/9.f8ad501c2e8c5d17fa8c.jpg",
     "static/media/1.jfif": "/iamstudent.uk/static/media/1.c4caba3713109a5cdadc.jfif",
@@ -9,11 +9,11 @@
     "static/media/5.jfif": "/iamstudent.uk/static/media/5.031cf72a118d3b04da12.jfif",
     "static/media/4.jfif": "/iamstudent.uk/static/media/4.8e5a1f257ada6f4cab4a.jfif",
     "index.html": "/iamstudent.uk/index.html",
-    "main.bd13f206.css.map": "/iamstudent.uk/static/css/main.bd13f206.css.map",
-    "main.3ba67796.js.map": "/iamstudent.uk/static/js/main.3ba67796.js.map"
+    "main.2827df8e.css.map": "/iamstudent.uk/static/css/main.2827df8e.css.map",
+    "main.c2f4d528.js.map": "/iamstudent.uk/static/js/main.c2f4d528.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd13f206.css",
-    "static/js/main.3ba67796.js"
+    "static/css/main.2827df8e.css",
+    "static/js/main.c2f4d528.js"
   ]
 }
